@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Andre/Documents/GitHub/Labs5_2and6/mainlab6.cpp
+iostream
+-
+algorithm
+-
+simple.h
+C:/Users/Andre/Documents/GitHub/Labs5_2and6/simple.h
+sorting.h
+C:/Users/Andre/Documents/GitHub/Labs5_2and6/sorting.h
+
+C:/Users/Andre/Documents/GitHub/Labs5_2and6/simple.h
+
+C:/Users/Andre/Documents/GitHub/Labs5_2and6/sorting.cpp
+iostream
+-
+algorithm
+-
+sorting.h
+C:/Users/Andre/Documents/GitHub/Labs5_2and6/sorting.h
+
+C:/Users/Andre/Documents/GitHub/Labs5_2and6/sorting.h
+

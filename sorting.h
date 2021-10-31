@@ -4,6 +4,6 @@
 
 #ifdef SIZE
 
-void sortMatrix(int matrix[SIZE][SIZE]);
+void sorting(int matrix[SIZE][SIZE]);
 
 #endif
